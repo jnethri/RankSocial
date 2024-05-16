@@ -1,0 +1,102 @@
+2022-05-18T23:35:20+00:00 CRITICAL Uncaught Exception: Could not open access to file /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/uninstall.php in /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php:5480
+Stack trace:
+#0 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php(6306): Puvox\php_library->file_put_contents()
+#1 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php(2525): Puvox\php_library->add_default_uninstall()
+#2 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php(2451): Puvox\wp_plugin->plugin_inits()
+#3 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/index.php(670): Puvox\wp_plugin->__construct()
+#4 /srv/www/wordpress/wp-admin/includes/plugin.php(2288): include_once('/srv/www/wordpr...')
+#5 /srv/www/wordpress/wp-admin/includes/plugin.php(659): plugin_sandbox_scrape()
+#6 /srv/www/wordpress/wp-admin/plugins.php(58): activate_plugin()
+#7 {main}
+  thrown in /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php on line 5480
+
+2022-05-18T23:35:20+00:00 CRITICAL Uncaught Exception: Could not open access to file /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/uninstall.php in /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php:5480
+Stack trace:
+#0 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php(6306): Puvox\php_library->file_put_contents()
+#1 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php(2525): Puvox\php_library->add_default_uninstall()
+#2 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php(2451): Puvox\wp_plugin->plugin_inits()
+#3 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/index.php(670): Puvox\wp_plugin->__construct()
+#4 /srv/www/wordpress/wp-admin/includes/plugin.php(2288): include_once('/srv/www/wordpr...')
+#5 /srv/www/wordpress/wp-admin/plugins.php(192): plugin_sandbox_scrape()
+#6 {main}
+  thrown in /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php on line 5480
+
+2022-05-18T23:35:20+00:00 CRITICAL Uncaught Exception: Could not open access to file /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/uninstall.php in /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php:5480
+Stack trace:
+#0 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php(6306): Puvox\php_library->file_put_contents()
+#1 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php(2525): Puvox\php_library->add_default_uninstall()
+#2 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php(2451): Puvox\wp_plugin->plugin_inits()
+#3 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/index.php(670): Puvox\wp_plugin->__construct()
+#4 /srv/www/wordpress/wp-admin/includes/plugin.php(2288): include_once('/srv/www/wordpr...')
+#5 /srv/www/wordpress/wp-admin/plugins.php(192): plugin_sandbox_scrape()
+#6 {main}
+  thrown in /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php on line 5480
+
+2022-05-18T23:35:37+00:00 CRITICAL Uncaught Exception: Could not open access to file /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/uninstall.php in /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php:5480
+Stack trace:
+#0 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php(6306): Puvox\php_library->file_put_contents()
+#1 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php(2525): Puvox\php_library->add_default_uninstall()
+#2 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php(2451): Puvox\wp_plugin->plugin_inits()
+#3 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/index.php(670): Puvox\wp_plugin->__construct()
+#4 /srv/www/wordpress/wp-admin/includes/plugin.php(2288): include_once('/srv/www/wordpr...')
+#5 /srv/www/wordpress/wp-admin/includes/plugin.php(659): plugin_sandbox_scrape()
+#6 /srv/www/wordpress/wp-admin/plugins.php(58): activate_plugin()
+#7 {main}
+  thrown in /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php on line 5480
+
+2022-05-18T23:35:38+00:00 CRITICAL Uncaught Exception: Could not open access to file /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/uninstall.php in /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php:5480
+Stack trace:
+#0 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php(6306): Puvox\php_library->file_put_contents()
+#1 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php(2525): Puvox\php_library->add_default_uninstall()
+#2 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php(2451): Puvox\wp_plugin->plugin_inits()
+#3 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/index.php(670): Puvox\wp_plugin->__construct()
+#4 /srv/www/wordpress/wp-admin/includes/plugin.php(2288): include_once('/srv/www/wordpr...')
+#5 /srv/www/wordpress/wp-admin/plugins.php(192): plugin_sandbox_scrape()
+#6 {main}
+  thrown in /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php on line 5480
+
+2022-05-18T23:35:38+00:00 CRITICAL Uncaught Exception: Could not open access to file /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/uninstall.php in /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php:5480
+Stack trace:
+#0 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php(6306): Puvox\php_library->file_put_contents()
+#1 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php(2525): Puvox\php_library->add_default_uninstall()
+#2 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php(2451): Puvox\wp_plugin->plugin_inits()
+#3 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/index.php(670): Puvox\wp_plugin->__construct()
+#4 /srv/www/wordpress/wp-admin/includes/plugin.php(2288): include_once('/srv/www/wordpr...')
+#5 /srv/www/wordpress/wp-admin/plugins.php(192): plugin_sandbox_scrape()
+#6 {main}
+  thrown in /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php on line 5480
+
+2022-05-18T23:37:31+00:00 CRITICAL Uncaught Exception: Could not open access to file /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/uninstall.php in /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php:5480
+Stack trace:
+#0 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php(6306): Puvox\php_library->file_put_contents()
+#1 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php(2525): Puvox\php_library->add_default_uninstall()
+#2 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php(2451): Puvox\wp_plugin->plugin_inits()
+#3 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/index.php(670): Puvox\wp_plugin->__construct()
+#4 /srv/www/wordpress/wp-admin/includes/plugin.php(2288): include_once('/srv/www/wordpr...')
+#5 /srv/www/wordpress/wp-admin/includes/plugin.php(659): plugin_sandbox_scrape()
+#6 /srv/www/wordpress/wp-admin/plugins.php(58): activate_plugin()
+#7 {main}
+  thrown in /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php on line 5480
+
+2022-05-18T23:37:32+00:00 CRITICAL Uncaught Exception: Could not open access to file /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/uninstall.php in /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php:5480
+Stack trace:
+#0 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php(6306): Puvox\php_library->file_put_contents()
+#1 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php(2525): Puvox\php_library->add_default_uninstall()
+#2 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php(2451): Puvox\wp_plugin->plugin_inits()
+#3 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/index.php(670): Puvox\wp_plugin->__construct()
+#4 /srv/www/wordpress/wp-admin/includes/plugin.php(2288): include_once('/srv/www/wordpr...')
+#5 /srv/www/wordpress/wp-admin/plugins.php(192): plugin_sandbox_scrape()
+#6 {main}
+  thrown in /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php on line 5480
+
+2022-05-18T23:37:32+00:00 CRITICAL Uncaught Exception: Could not open access to file /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/uninstall.php in /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php:5480
+Stack trace:
+#0 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php(6306): Puvox\php_library->file_put_contents()
+#1 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php(2525): Puvox\php_library->add_default_uninstall()
+#2 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_wp.php(2451): Puvox\wp_plugin->plugin_inits()
+#3 /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/index.php(670): Puvox\wp_plugin->__construct()
+#4 /srv/www/wordpress/wp-admin/includes/plugin.php(2288): include_once('/srv/www/wordpr...')
+#5 /srv/www/wordpress/wp-admin/plugins.php(192): plugin_sandbox_scrape()
+#6 {main}
+  thrown in /srv/www/wordpress/wp-content/plugins/wp-phpmyadmin-extension/library_standard.php on line 5480
+

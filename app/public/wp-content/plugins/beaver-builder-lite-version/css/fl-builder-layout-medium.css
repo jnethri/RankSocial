@@ -1,0 +1,11 @@
+/* Columns
+------------------------------------------------------ */
+
+/* Reversed Responsive Stacking */
+.fl-col-group.fl-col-group-medium-reversed {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap-reverse;
+	flex-wrap: wrap-reverse;
+	flex-direction: row-reverse;
+}

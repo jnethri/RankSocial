@@ -1,0 +1,555 @@
+
+      <svg 
+        width="2000"
+        height="2000" 
+        viewBox="0 0 500.00 500.00" 
+        xmlns="http://www.w3.org/2000/svg" 
+        xmlns:xlink= "http://www.w3.org/1999/xlink"
+      >
+        <rect 
+          width="500.00" 
+          height="500.00" 
+          fill="#FFF4DC"
+        />
+ 
+        
+<g transform="translate(3.50, 3.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#84d5d6" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<g opacity="0.2">
+<path d="M50.0416 0.0264958C50.0278 0.0148159 50.0139 0.00313002 50 -0.00854601C16.6667 28.0397 16.6667 71.943 50 99.9912C50.0139 99.9795 50.0278 99.9679 50.0416 99.9562L50.0416 0.0264958Z" fill="#84d5d6"/>
+<path d="M49.9583 99.9562C49.9722 99.9679 49.9861 99.9795 50 99.9912C83.3334 71.943 83.3334 28.0396 50 -0.00854601C49.9861 0.00312613 49.9722 0.0148159 49.9583 0.0264958L49.9583 99.9562Z" fill="#84d5d6"/>
+</g>
+<circle opacity="0.5" cx="50" cy="50" r="25" transform="rotate(-90 50 50)" fill="#84d5d6"/>
+<circle cx="50" cy="50" r="12" transform="rotate(-90 50 50)" fill="#84d5d6"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#84d5d6" transform="translate(0 100) rotate(-90)"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(103.50, 3.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#ee521f" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<path opacity="0.5" d="M99.9735 50.0415C99.9852 50.0276 99.9969 50.0138 100.009 49.9999C71.9603 16.6665 28.057 16.6665 0.00878906 49.9999C0.0204612 50.0138 0.0321411 50.0276 0.0438211 50.0415L99.9735 50.0415Z" fill="#ee521f"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M50 70.0001C61.0457 70.0001 70 61.0458 70 50.0001C70 49.9862 70 49.9724 70 49.9585L99.9735 49.9585L100.009 50.0001C71.9603 83.3335 28.057 83.3335 0.00878906 50.0001L0.043823 49.9585L30 49.9585C30 49.9724 30 49.9863 30 50.0001C30 61.0458 38.9543 70.0001 50 70.0001Z" fill="#ee521f"/>
+<circle cx="50" cy="50" r="20" fill="#ee521f"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#ee521f"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(203.50, 3.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#84d5d6" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<g opacity="0.2">
+<path d="M99.9735 50.0416C99.9852 50.0278 99.9969 50.0139 100.009 50C71.9603 16.6667 28.057 16.6667 0.00878906 50C0.0204612 50.0139 0.0321411 50.0278 0.0438211 50.0416L99.9735 50.0416Z" fill="#84d5d6"/>
+<path d="M0.043823 49.9583C0.0321431 49.9722 0.0204651 49.9861 0.00878906 50C28.057 83.3334 71.9604 83.3334 100.009 50C99.9969 49.9861 99.9852 49.9722 99.9735 49.9583L0.043823 49.9583Z" fill="#84d5d6"/>
+</g>
+<circle opacity="0.5" cx="50" cy="50" r="25" fill="#84d5d6"/>
+<circle cx="50" cy="50" r="12" fill="#84d5d6"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#84d5d6"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(303.50, 3.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#ee521f" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<path opacity="0.5" d="M99.9735 50.0415C99.9852 50.0276 99.9969 50.0138 100.009 49.9999C71.9603 16.6665 28.057 16.6665 0.00878906 49.9999C0.0204612 50.0138 0.0321411 50.0276 0.0438211 50.0415L99.9735 50.0415Z" fill="#ee521f"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M50 70.0001C61.0457 70.0001 70 61.0458 70 50.0001C70 49.9862 70 49.9724 70 49.9585L99.9735 49.9585L100.009 50.0001C71.9603 83.3335 28.057 83.3335 0.00878906 50.0001L0.043823 49.9585L30 49.9585C30 49.9724 30 49.9863 30 50.0001C30 61.0458 38.9543 70.0001 50 70.0001Z" fill="#ee521f"/>
+<circle cx="50" cy="50" r="20" fill="#ee521f"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#ee521f"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(403.50, 3.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#fba613" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<g opacity="0.2">
+<path d="M99.9735 50.0416C99.9852 50.0278 99.9969 50.0139 100.009 50C71.9603 16.6667 28.057 16.6667 0.00878906 50C0.0204612 50.0139 0.0321411 50.0278 0.0438211 50.0416L99.9735 50.0416Z" fill="#fba613"/>
+<path d="M0.043823 49.9583C0.0321431 49.9722 0.0204651 49.9861 0.00878906 50C28.057 83.3334 71.9604 83.3334 100.009 50C99.9969 49.9861 99.9852 49.9722 99.9735 49.9583L0.043823 49.9583Z" fill="#fba613"/>
+</g>
+<circle opacity="0.5" cx="50" cy="50" r="25" fill="#fba613"/>
+<circle cx="50" cy="50" r="12" fill="#fba613"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#fba613"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(3.50, 103.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#ee521f" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<g opacity="0.2">
+<path d="M99.9735 50.0416C99.9852 50.0278 99.9969 50.0139 100.009 50C71.9603 16.6667 28.057 16.6667 0.00878906 50C0.0204612 50.0139 0.0321411 50.0278 0.0438211 50.0416L99.9735 50.0416Z" fill="#ee521f"/>
+<path d="M0.043823 49.9583C0.0321431 49.9722 0.0204651 49.9861 0.00878906 50C28.057 83.3334 71.9604 83.3334 100.009 50C99.9969 49.9861 99.9852 49.9722 99.9735 49.9583L0.043823 49.9583Z" fill="#ee521f"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M50 75C63.8071 75 75 63.8071 75 50C75 36.1929 63.8071 25 50 25C36.1929 25 25 36.1929 25 50C25 63.8071 36.1929 75 50 75ZM50 62C56.6274 62 62 56.6274 62 50C62 43.3726 56.6274 38 50 38C43.3726 38 38 43.3726 38 50C38 56.6274 43.3726 62 50 62Z" fill="#ee521f"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#ee521f"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(103.50, 103.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#84d5d6" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<g opacity="0.2">
+<path d="M50.0416 0.0264958C50.0278 0.0148159 50.0139 0.00313002 50 -0.00854601C16.6667 28.0397 16.6667 71.943 50 99.9912C50.0139 99.9795 50.0278 99.9679 50.0416 99.9562L50.0416 0.0264958Z" fill="#84d5d6"/>
+<path d="M49.9583 99.9562C49.9722 99.9679 49.9861 99.9795 50 99.9912C83.3334 71.943 83.3334 28.0396 50 -0.00854601C49.9861 0.00312613 49.9722 0.0148159 49.9583 0.0264958L49.9583 99.9562Z" fill="#84d5d6"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M75 50C75 36.1929 63.8071 25 50 25C36.1929 25 25 36.1929 25 50C25 63.8071 36.1929 75 50 75C63.8071 75 75 63.8071 75 50ZM62 50C62 43.3726 56.6274 38 50 38C43.3726 38 38 43.3726 38 50C38 56.6274 43.3726 62 50 62C56.6274 62 62 56.6274 62 50Z" fill="#84d5d6"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#84d5d6" transform="translate(0 100) rotate(-90)"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(203.50, 103.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#84d5d6" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<path opacity="0.5" d="M50.042 0.0264986C50.0281 0.0148186 50.0143 0.00313481 50.0004 -0.00854123C16.667 28.0397 16.667 71.943 50.0004 99.9912C50.0143 99.9795 50.0281 99.9679 50.042 99.9562L50.042 0.0264986Z" fill="#84d5d6"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M69.9996 50C69.9996 38.9543 61.0453 30 49.9996 30C49.9858 30 49.9719 30 49.958 30L49.958 0.0264969L49.9996 -0.00852966C83.333 28.0397 83.333 71.943 49.9996 99.9912L49.958 99.9562L49.958 70C49.9719 70 49.9858 70 49.9996 70C61.0453 70 69.9996 61.0457 69.9996 50Z" fill="#84d5d6"/>
+<circle cx="50" cy="50" r="20" transform="rotate(-90 50 50)" fill="#84d5d6"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#84d5d6" transform="translate(0 100) rotate(-90)"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(303.50, 103.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#84d5d6" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<g opacity="0.2">
+<path d="M50.0416 0.0264958C50.0278 0.0148159 50.0139 0.00313002 50 -0.00854601C16.6667 28.0397 16.6667 71.943 50 99.9912C50.0139 99.9795 50.0278 99.9679 50.0416 99.9562L50.0416 0.0264958Z" fill="#84d5d6"/>
+<path d="M49.9583 99.9562C49.9722 99.9679 49.9861 99.9795 50 99.9912C83.3334 71.943 83.3334 28.0396 50 -0.00854601C49.9861 0.00312613 49.9722 0.0148159 49.9583 0.0264958L49.9583 99.9562Z" fill="#84d5d6"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M75 50C75 36.1929 63.8071 25 50 25C36.1929 25 25 36.1929 25 50C25 63.8071 36.1929 75 50 75C63.8071 75 75 63.8071 75 50ZM62 50C62 43.3726 56.6274 38 50 38C43.3726 38 38 43.3726 38 50C38 56.6274 43.3726 62 50 62C56.6274 62 62 56.6274 62 50Z" fill="#84d5d6"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#84d5d6" transform="translate(0 100) rotate(-90)"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(403.50, 103.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#fba613" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<path opacity="0.5" d="M50.042 0.0264986C50.0281 0.0148186 50.0143 0.00313481 50.0004 -0.00854123C16.667 28.0397 16.667 71.943 50.0004 99.9912C50.0143 99.9795 50.0281 99.9679 50.042 99.9562L50.042 0.0264986Z" fill="#fba613"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M69.9996 50C69.9996 38.9543 61.0453 30 49.9996 30C49.9858 30 49.9719 30 49.958 30L49.958 0.0264969L49.9996 -0.00852966C83.333 28.0397 83.333 71.943 49.9996 99.9912L49.958 99.9562L49.958 70C49.9719 70 49.9858 70 49.9996 70C61.0453 70 69.9996 61.0457 69.9996 50Z" fill="#fba613"/>
+<circle cx="50" cy="50" r="20" transform="rotate(-90 50 50)" fill="#fba613"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#fba613" transform="translate(0 100) rotate(-90)"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(3.50, 203.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#84d5d6" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<path opacity="0.5" d="M99.9735 50.0415C99.9852 50.0276 99.9969 50.0138 100.009 49.9999C71.9603 16.6665 28.057 16.6665 0.00878906 49.9999C0.0204612 50.0138 0.0321411 50.0276 0.0438211 50.0415L99.9735 50.0415Z" fill="#84d5d6"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M50 70.0001C61.0457 70.0001 70 61.0458 70 50.0001C70 49.9862 70 49.9724 70 49.9585L99.9735 49.9585L100.009 50.0001C71.9603 83.3335 28.057 83.3335 0.00878906 50.0001L0.043823 49.9585L30 49.9585C30 49.9724 30 49.9863 30 50.0001C30 61.0458 38.9543 70.0001 50 70.0001Z" fill="#84d5d6"/>
+<circle cx="50" cy="50" r="20" fill="#84d5d6"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#84d5d6"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(103.50, 203.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#ee521f" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<g opacity="0.2">
+<path d="M50.0416 0.0264958C50.0278 0.0148159 50.0139 0.00313002 50 -0.00854601C16.6667 28.0397 16.6667 71.943 50 99.9912C50.0139 99.9795 50.0278 99.9679 50.0416 99.9562L50.0416 0.0264958Z" fill="#ee521f"/>
+<path d="M49.9583 99.9562C49.9722 99.9679 49.9861 99.9795 50 99.9912C83.3334 71.943 83.3334 28.0396 50 -0.00854601C49.9861 0.00312613 49.9722 0.0148159 49.9583 0.0264958L49.9583 99.9562Z" fill="#ee521f"/>
+</g>
+<circle opacity="0.5" cx="50" cy="50" r="25" transform="rotate(-90 50 50)" fill="#ee521f"/>
+<circle cx="50" cy="50" r="12" transform="rotate(-90 50 50)" fill="#ee521f"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#ee521f" transform="translate(0 100) rotate(-90)"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(203.50, 203.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#84d5d6" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<g opacity="0.2">
+<path d="M99.9735 50.0416C99.9852 50.0278 99.9969 50.0139 100.009 50C71.9603 16.6667 28.057 16.6667 0.00878906 50C0.0204612 50.0139 0.0321411 50.0278 0.0438211 50.0416L99.9735 50.0416Z" fill="#84d5d6"/>
+<path d="M0.043823 49.9583C0.0321431 49.9722 0.0204651 49.9861 0.00878906 50C28.057 83.3334 71.9604 83.3334 100.009 50C99.9969 49.9861 99.9852 49.9722 99.9735 49.9583L0.043823 49.9583Z" fill="#84d5d6"/>
+</g>
+<circle opacity="0.5" cx="50" cy="50" r="25" fill="#84d5d6"/>
+<circle cx="50" cy="50" r="12" fill="#84d5d6"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#84d5d6"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(303.50, 203.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#ee521f" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<path opacity="0.5" d="M99.9735 50.0415C99.9852 50.0276 99.9969 50.0138 100.009 49.9999C71.9603 16.6665 28.057 16.6665 0.00878906 49.9999C0.0204612 50.0138 0.0321411 50.0276 0.0438211 50.0415L99.9735 50.0415Z" fill="#ee521f"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M50 70.0001C61.0457 70.0001 70 61.0458 70 50.0001C70 49.9862 70 49.9724 70 49.9585L99.9735 49.9585L100.009 50.0001C71.9603 83.3335 28.057 83.3335 0.00878906 50.0001L0.043823 49.9585L30 49.9585C30 49.9724 30 49.9863 30 50.0001C30 61.0458 38.9543 70.0001 50 70.0001Z" fill="#ee521f"/>
+<circle cx="50" cy="50" r="20" fill="#ee521f"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#ee521f"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(403.50, 203.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#84d5d6" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<g opacity="0.2">
+<path d="M99.9735 50.0416C99.9852 50.0278 99.9969 50.0139 100.009 50C71.9603 16.6667 28.057 16.6667 0.00878906 50C0.0204612 50.0139 0.0321411 50.0278 0.0438211 50.0416L99.9735 50.0416Z" fill="#84d5d6"/>
+<path d="M0.043823 49.9583C0.0321431 49.9722 0.0204651 49.9861 0.00878906 50C28.057 83.3334 71.9604 83.3334 100.009 50C99.9969 49.9861 99.9852 49.9722 99.9735 49.9583L0.043823 49.9583Z" fill="#84d5d6"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M50 75C63.8071 75 75 63.8071 75 50C75 36.1929 63.8071 25 50 25C36.1929 25 25 36.1929 25 50C25 63.8071 36.1929 75 50 75ZM50 62C56.6274 62 62 56.6274 62 50C62 43.3726 56.6274 38 50 38C43.3726 38 38 43.3726 38 50C38 56.6274 43.3726 62 50 62Z" fill="#84d5d6"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#84d5d6"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(3.50, 303.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#ee521f" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<g opacity="0.2">
+<path d="M50.0416 0.0264958C50.0278 0.0148159 50.0139 0.00313002 50 -0.00854601C16.6667 28.0397 16.6667 71.943 50 99.9912C50.0139 99.9795 50.0278 99.9679 50.0416 99.9562L50.0416 0.0264958Z" fill="#ee521f"/>
+<path d="M49.9583 99.9562C49.9722 99.9679 49.9861 99.9795 50 99.9912C83.3334 71.943 83.3334 28.0396 50 -0.00854601C49.9861 0.00312613 49.9722 0.0148159 49.9583 0.0264958L49.9583 99.9562Z" fill="#ee521f"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M75 50C75 36.1929 63.8071 25 50 25C36.1929 25 25 36.1929 25 50C25 63.8071 36.1929 75 50 75C63.8071 75 75 63.8071 75 50ZM62 50C62 43.3726 56.6274 38 50 38C43.3726 38 38 43.3726 38 50C38 56.6274 43.3726 62 50 62C56.6274 62 62 56.6274 62 50Z" fill="#ee521f"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#ee521f" transform="translate(0 100) rotate(-90)"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(103.50, 303.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#ee521f" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<g opacity="0.2">
+<path d="M99.9735 50.0416C99.9852 50.0278 99.9969 50.0139 100.009 50C71.9603 16.6667 28.057 16.6667 0.00878906 50C0.0204612 50.0139 0.0321411 50.0278 0.0438211 50.0416L99.9735 50.0416Z" fill="#ee521f"/>
+<path d="M0.043823 49.9583C0.0321431 49.9722 0.0204651 49.9861 0.00878906 50C28.057 83.3334 71.9604 83.3334 100.009 50C99.9969 49.9861 99.9852 49.9722 99.9735 49.9583L0.043823 49.9583Z" fill="#ee521f"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M50 75C63.8071 75 75 63.8071 75 50C75 36.1929 63.8071 25 50 25C36.1929 25 25 36.1929 25 50C25 63.8071 36.1929 75 50 75ZM50 62C56.6274 62 62 56.6274 62 50C62 43.3726 56.6274 38 50 38C43.3726 38 38 43.3726 38 50C38 56.6274 43.3726 62 50 62Z" fill="#ee521f"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#ee521f"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(203.50, 303.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#ee521f" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<path opacity="0.5" d="M50.042 0.0264986C50.0281 0.0148186 50.0143 0.00313481 50.0004 -0.00854123C16.667 28.0397 16.667 71.943 50.0004 99.9912C50.0143 99.9795 50.0281 99.9679 50.042 99.9562L50.042 0.0264986Z" fill="#ee521f"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M69.9996 50C69.9996 38.9543 61.0453 30 49.9996 30C49.9858 30 49.9719 30 49.958 30L49.958 0.0264969L49.9996 -0.00852966C83.333 28.0397 83.333 71.943 49.9996 99.9912L49.958 99.9562L49.958 70C49.9719 70 49.9858 70 49.9996 70C61.0453 70 69.9996 61.0457 69.9996 50Z" fill="#ee521f"/>
+<circle cx="50" cy="50" r="20" transform="rotate(-90 50 50)" fill="#ee521f"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#ee521f" transform="translate(0 100) rotate(-90)"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(303.50, 303.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#ee521f" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<g opacity="0.2">
+<path d="M50.0416 0.0264958C50.0278 0.0148159 50.0139 0.00313002 50 -0.00854601C16.6667 28.0397 16.6667 71.943 50 99.9912C50.0139 99.9795 50.0278 99.9679 50.0416 99.9562L50.0416 0.0264958Z" fill="#ee521f"/>
+<path d="M49.9583 99.9562C49.9722 99.9679 49.9861 99.9795 50 99.9912C83.3334 71.943 83.3334 28.0396 50 -0.00854601C49.9861 0.00312613 49.9722 0.0148159 49.9583 0.0264958L49.9583 99.9562Z" fill="#ee521f"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M75 50C75 36.1929 63.8071 25 50 25C36.1929 25 25 36.1929 25 50C25 63.8071 36.1929 75 50 75C63.8071 75 75 63.8071 75 50ZM62 50C62 43.3726 56.6274 38 50 38C43.3726 38 38 43.3726 38 50C38 56.6274 43.3726 62 50 62C56.6274 62 62 56.6274 62 50Z" fill="#ee521f"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#ee521f" transform="translate(0 100) rotate(-90)"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(403.50, 303.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#ee521f" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<g opacity="0.2">
+<path d="M50.0416 0.0264958C50.0278 0.0148159 50.0139 0.00313002 50 -0.00854601C16.6667 28.0397 16.6667 71.943 50 99.9912C50.0139 99.9795 50.0278 99.9679 50.0416 99.9562L50.0416 0.0264958Z" fill="#ee521f"/>
+<path d="M49.9583 99.9562C49.9722 99.9679 49.9861 99.9795 50 99.9912C83.3334 71.943 83.3334 28.0396 50 -0.00854601C49.9861 0.00312613 49.9722 0.0148159 49.9583 0.0264958L49.9583 99.9562Z" fill="#ee521f"/>
+</g>
+<circle opacity="0.5" cx="50" cy="50" r="25" transform="rotate(-90 50 50)" fill="#ee521f"/>
+<circle cx="50" cy="50" r="12" transform="rotate(-90 50 50)" fill="#ee521f"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#ee521f" transform="translate(0 100) rotate(-90)"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(3.50, 403.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#ee521f" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<path opacity="0.5" d="M99.9735 50.0415C99.9852 50.0276 99.9969 50.0138 100.009 49.9999C71.9603 16.6665 28.057 16.6665 0.00878906 49.9999C0.0204612 50.0138 0.0321411 50.0276 0.0438211 50.0415L99.9735 50.0415Z" fill="#ee521f"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M50 70.0001C61.0457 70.0001 70 61.0458 70 50.0001C70 49.9862 70 49.9724 70 49.9585L99.9735 49.9585L100.009 50.0001C71.9603 83.3335 28.057 83.3335 0.00878906 50.0001L0.043823 49.9585L30 49.9585C30 49.9724 30 49.9863 30 50.0001C30 61.0458 38.9543 70.0001 50 70.0001Z" fill="#ee521f"/>
+<circle cx="50" cy="50" r="20" fill="#ee521f"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#ee521f"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(103.50, 403.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#fba613" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<g opacity="0.2">
+<path d="M50.0416 0.0264958C50.0278 0.0148159 50.0139 0.00313002 50 -0.00854601C16.6667 28.0397 16.6667 71.943 50 99.9912C50.0139 99.9795 50.0278 99.9679 50.0416 99.9562L50.0416 0.0264958Z" fill="#fba613"/>
+<path d="M49.9583 99.9562C49.9722 99.9679 49.9861 99.9795 50 99.9912C83.3334 71.943 83.3334 28.0396 50 -0.00854601C49.9861 0.00312613 49.9722 0.0148159 49.9583 0.0264958L49.9583 99.9562Z" fill="#fba613"/>
+</g>
+<circle opacity="0.5" cx="50" cy="50" r="25" transform="rotate(-90 50 50)" fill="#fba613"/>
+<circle cx="50" cy="50" r="12" transform="rotate(-90 50 50)" fill="#fba613"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#fba613" transform="translate(0 100) rotate(-90)"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(203.50, 403.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#ee521f" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<path opacity="0.5" d="M99.9735 50.0415C99.9852 50.0276 99.9969 50.0138 100.009 49.9999C71.9603 16.6665 28.057 16.6665 0.00878906 49.9999C0.0204612 50.0138 0.0321411 50.0276 0.0438211 50.0415L99.9735 50.0415Z" fill="#ee521f"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M50 70.0001C61.0457 70.0001 70 61.0458 70 50.0001C70 49.9862 70 49.9724 70 49.9585L99.9735 49.9585L100.009 50.0001C71.9603 83.3335 28.057 83.3335 0.00878906 50.0001L0.043823 49.9585L30 49.9585C30 49.9724 30 49.9863 30 50.0001C30 61.0458 38.9543 70.0001 50 70.0001Z" fill="#ee521f"/>
+<circle cx="50" cy="50" r="20" fill="#ee521f"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#ee521f"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(303.50, 403.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#84d5d6" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<g opacity="0.2">
+<path d="M99.9735 50.0416C99.9852 50.0278 99.9969 50.0139 100.009 50C71.9603 16.6667 28.057 16.6667 0.00878906 50C0.0204612 50.0139 0.0321411 50.0278 0.0438211 50.0416L99.9735 50.0416Z" fill="#84d5d6"/>
+<path d="M0.043823 49.9583C0.0321431 49.9722 0.0204651 49.9861 0.00878906 50C28.057 83.3334 71.9604 83.3334 100.009 50C99.9969 49.9861 99.9852 49.9722 99.9735 49.9583L0.043823 49.9583Z" fill="#84d5d6"/>
+</g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M50 75C63.8071 75 75 63.8071 75 50C75 36.1929 63.8071 25 50 25C36.1929 25 25 36.1929 25 50C25 63.8071 36.1929 75 50 75ZM50 62C56.6274 62 62 56.6274 62 50C62 43.3726 56.6274 38 50 38C43.3726 38 38 43.3726 38 50C38 56.6274 43.3726 62 50 62Z" fill="#84d5d6"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#84d5d6"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+<g transform="translate(403.50, 403.50)">
+  <g transformOrigin="center" transform="scale(0.93, 0.93)">
+    <g transformOrigin="center" transform="rotate(0.00, 50, 50)" opacity="1">
+      <svg width="100" height="100" viewBox="0 0 100 100" fill="#ee521f" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<path opacity="0.5" d="M50.042 0.0264986C50.0281 0.0148186 50.0143 0.00313481 50.0004 -0.00854123C16.667 28.0397 16.667 71.943 50.0004 99.9912C50.0143 99.9795 50.0281 99.9679 50.042 99.9562L50.042 0.0264986Z" fill="#ee521f"/>
+<path opacity="0.2" fill-rule="evenodd" clip-rule="evenodd" d="M69.9996 50C69.9996 38.9543 61.0453 30 49.9996 30C49.9858 30 49.9719 30 49.958 30L49.958 0.0264969L49.9996 -0.00852966C83.333 28.0397 83.333 71.943 49.9996 99.9912L49.958 99.9562L49.958 70C49.9719 70 49.9858 70 49.9996 70C61.0453 70 69.9996 61.0457 69.9996 50Z" fill="#ee521f"/>
+<circle cx="50" cy="50" r="20" transform="rotate(-90 50 50)" fill="#ee521f"/>
+</g>
+<defs>
+<clipPath id="clip0">
+<rect width="100" height="100" fill="#ee521f" transform="translate(0 100) rotate(-90)"/>
+</clipPath>
+</defs>
+</svg>
+
+    </g>
+  </g>
+</g>
+
+        
+
+      </svg>

@@ -1,0 +1,14 @@
+img.mfp-img {
+    padding-bottom: 40px !important;
+}
+
+/* Support for object-fit */
+.fl-builder-edit .fl-fill-container img {
+	transition: object-position .5s;
+}
+
+.fl-fill-container :is(.fl-module-content, .fl-photo, .fl-photo-content, img) {
+	height: 100% !important;
+	width: 100% !important;
+}
+

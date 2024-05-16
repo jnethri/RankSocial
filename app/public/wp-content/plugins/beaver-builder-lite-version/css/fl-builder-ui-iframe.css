@@ -1,0 +1,190 @@
+/* @group General
+------------------------------------------------------ */
+
+* {
+	box-sizing: border-box;
+}
+html {
+	height: 100%;
+}
+body {
+	background-color: var(--fl-builder-panel-bg-color) !important;
+	font-family: var(--fl-builder-font-family);
+	font-size: 12px;
+	line-height: 14px;
+	height: 100%;
+	margin: 0;
+}
+.fl-builder-edit body {
+	overflow: hidden !important;
+}
+
+/* @group IFrame
+------------------------------------------------------ */
+
+.fl-builder-ui-iframe-wrap {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	line-height: 0;
+	position: relative;
+}
+.fl-builder-ui-iframe-canvas {
+	box-shadow: 0 0 0 1px rgb(0 0 0 / 5%);
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	left: auto !important;
+	transform-origin: top center;
+}
+.fl-builder-ui-iframe {
+	width: 100%;
+    height: 100%;
+}
+.fl-builder-ui-iframe-resizing .fl-builder-ui-iframe,
+.fl-builder-draggable-is-dragging .fl-builder-ui-iframe,
+.fl-builder-resizable-is-resizing .fl-builder-ui-iframe {
+	pointer-events: none;
+}
+
+/* Fix for draggable iframe mask not removed on touch. */
+.fl-builder-ui-iframe-canvas > div:not([class]) {
+	display: none;
+}
+.fl-builder-dragging .fl-builder-ui-iframe-canvas > div:not([class]) {
+	display: block;
+}
+
+/* @group IFrame Resize Handles
+------------------------------------------------------ */
+
+.fl-builder-ui-iframe-resize {
+	--handle-size: 24px;
+	--grab-bar-size: 48px;
+	position: absolute;
+	display: none;
+    justify-content: center;
+    align-items: center;
+	padding: 12px;
+}
+.fl-builder-ui-iframe-resize div {
+	background: #d8dce0;
+	border-radius: 2px;
+	padding: 2px;
+}
+.fl-builder-ui-iframe-resize-s {
+	width: 100%;
+	cursor: ns-resize;
+}
+.fl-builder-ui-iframe-resize-s div {
+	width: var(--grab-bar-size);
+}
+.fl-builder-ui-iframe-resize-s {
+	bottom: calc( 0px - var(--handle-size) );
+}
+.fl-builder-ui-iframe-resize-e,
+.fl-builder-ui-iframe-resize-w {
+	height: 100%;
+	cursor: ew-resize;
+	min-width: var(--handle-size);
+}
+.fl-builder-ui-iframe-resize-e div,
+.fl-builder-ui-iframe-resize-w div {
+	height:  var(--grab-bar-size);
+}
+.fl-builder-ui-iframe-resize-e {
+	right: calc( 0px - var(--handle-size) );
+}
+.fl-builder-ui-iframe-resize-w {
+	left: calc( 0px - var(--handle-size) );
+}
+
+/* @group IFrame Toolbar
+------------------------------------------------------ */
+
+.fl-builder-ui-iframe-toolbar {
+	color: #b3b3b3;
+	font-size: 14px;
+	display: none;
+    align-items: center;
+    justify-content: center;
+	height: 60px;
+}
+.fl-builder-ui-iframe-toolbar .fl-builder-button,
+.fl-builder-ui-iframe-toolbar .fl-builder-button:focus,
+.fl-builder-ui-iframe-toolbar .fl-builder-button:active {
+	border-color: transparent !important;
+	margin: 0 3px;
+    padding: 0 10px;
+}
+.fl-builder-ui-iframe-toolbar .fl-builder-button i {
+	font-size: 16px;
+	height: 16px;
+	width: 16px;
+}
+.fl-builder-ui-iframe-toolbar select {
+	padding-right: 30px !important;
+    background-image: url(../img/svg/select-arrow-down-alt2.svg) !important;
+	background-position: center right 10px !important;
+	background-repeat: no-repeat !important;
+	text-align: left !important;
+}
+
+/* Breakpoint Select */
+.fl-builder-ui-iframe-breakpoint {
+	margin: 0 12px 0 6px !important;
+}
+
+/* Size Inputs */
+.fl-builder-ui-iframe-size {
+    display: flex;
+	align-items: center;
+	margin-right: 12px;
+}
+.fl-builder-ui-iframe-size input,
+.fl-builder-ui-iframe-size input:focus {
+	background: transparent;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    border-radius: 0;
+	color: #b3b3b3;
+	font-size: 14px;
+	line-height: 20px;
+	padding: 0;
+	margin: 0 6px;
+	width: 50px;
+}
+.fl-builder-ui-iframe-size input:focus {
+	color: #666;
+}
+.fl-builder-ui-iframe-scale {
+	max-width: 90px;
+	text-overflow: ellipsis;
+	text-align: left;
+}
+
+@media (max-width: 500px) {
+	.fl-builder-ui-iframe-breakpoint-text,
+	.fl-builder-ui-iframe-size {
+		display: none;
+	}
+	.fl-builder-ui-iframe-breakpoint {
+		margin: 0 3px !important;
+	}
+}
+
+/* @group Responsive Editing Mode
+------------------------------------------------------ */
+
+.fl-builder-ui-iframe-responsive-editing .fl-builder-ui-iframe-wrap {
+	height: calc(100% - 60px);
+	padding: 0px 40px;
+}
+.fl-builder-ui-iframe-responsive-editing .fl-builder-ui-iframe-toolbar,
+.fl-builder-ui-iframe-responsive-editing .fl-builder-ui-iframe-resize-n,
+.fl-builder-ui-iframe-responsive-editing .fl-builder-ui-iframe-resize-s,
+.fl-builder-ui-iframe-responsive-editing .fl-builder-ui-iframe-resize-e,
+.fl-builder-ui-iframe-responsive-editing .fl-builder-ui-iframe-resize-w {
+	display: flex;
+}

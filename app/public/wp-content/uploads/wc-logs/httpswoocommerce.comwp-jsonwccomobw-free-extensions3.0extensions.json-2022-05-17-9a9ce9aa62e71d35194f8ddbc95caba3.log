@@ -1,0 +1,499 @@
+2022-05-17T14:07:35+00:00 ERROR Error getting data feed
+2022-05-17T14:07:35+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Resolving timed out after 5000 milliseconds
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-05-17T14:07:45+00:00 ERROR Error getting data feed
+2022-05-17T14:07:45+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Resolving timed out after 5000 milliseconds
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-05-17T14:08:25+00:00 ERROR Error getting data feed
+2022-05-17T14:08:25+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Resolving timed out after 5000 milliseconds
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-05-17T14:08:35+00:00 ERROR Error getting data feed
+2022-05-17T14:08:35+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Resolving timed out after 5000 milliseconds
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-05-17T14:08:46+00:00 ERROR Error getting data feed
+2022-05-17T14:08:46+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Resolving timed out after 5000 milliseconds
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-05-17T14:09:27+00:00 ERROR Error getting data feed
+2022-05-17T14:09:27+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Resolving timed out after 5000 milliseconds
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-05-17T14:09:37+00:00 ERROR Error getting data feed
+2022-05-17T14:09:37+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => cURL error 28: Resolving timed out after 5000 milliseconds
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-05-17T22:20:55+00:00 ERROR Error getting data feed
+2022-05-17T22:20:55+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+stream_socket_client(): unable to connect to ssl://woocommerce.com:443 (php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution)
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-05-17T22:21:05+00:00 ERROR Error getting data feed
+2022-05-17T22:21:05+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+stream_socket_client(): unable to connect to ssl://woocommerce.com:443 (php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution)
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-05-17T22:21:45+00:00 ERROR Error getting data feed
+2022-05-17T22:21:45+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+stream_socket_client(): unable to connect to ssl://woocommerce.com:443 (php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution)
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-05-17T22:21:55+00:00 ERROR Error getting data feed
+2022-05-17T22:21:55+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+stream_socket_client(): unable to connect to ssl://woocommerce.com:443 (php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution)
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-05-17T22:22:05+00:00 ERROR Error getting data feed
+2022-05-17T22:22:05+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+stream_socket_client(): unable to connect to ssl://woocommerce.com:443 (php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution)
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-05-17T22:56:05+00:00 ERROR Error getting data feed
+2022-05-17T22:56:05+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+stream_socket_client(): unable to connect to ssl://woocommerce.com:443 (php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution)
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-05-17T22:56:15+00:00 ERROR Error getting data feed
+2022-05-17T22:56:15+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+stream_socket_client(): unable to connect to ssl://woocommerce.com:443 (php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution)
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-05-17T22:56:55+00:00 ERROR Error getting data feed
+2022-05-17T22:56:55+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+stream_socket_client(): unable to connect to ssl://woocommerce.com:443 (php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution)
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-05-17T22:57:05+00:00 ERROR Error getting data feed
+2022-05-17T22:57:05+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+stream_socket_client(): unable to connect to ssl://woocommerce.com:443 (php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution)
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-05-17T22:57:15+00:00 ERROR Error getting data feed
+2022-05-17T22:57:15+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+stream_socket_client(): unable to connect to ssl://woocommerce.com:443 (php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution)
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-05-17T23:17:12+00:00 ERROR Error getting data feed
+2022-05-17T23:17:12+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+stream_socket_client(): unable to connect to ssl://woocommerce.com:443 (php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution)
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-05-17T23:17:22+00:00 ERROR Error getting data feed
+2022-05-17T23:17:22+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+stream_socket_client(): unable to connect to ssl://woocommerce.com:443 (php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution)
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-05-17T23:18:02+00:00 ERROR Error getting data feed
+2022-05-17T23:18:02+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+stream_socket_client(): unable to connect to ssl://woocommerce.com:443 (php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution)
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-05-17T23:18:12+00:00 ERROR Error getting data feed
+2022-05-17T23:18:12+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+stream_socket_client(): unable to connect to ssl://woocommerce.com:443 (php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution)
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+2022-05-17T23:18:22+00:00 ERROR Error getting data feed
+2022-05-17T23:18:22+00:00 ERROR WP_Error Object
+(
+    [errors] => Array
+        (
+            [http_request_failed] => Array
+                (
+                    [0] => stream_socket_client(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution
+stream_socket_client(): unable to connect to ssl://woocommerce.com:443 (php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution)
+                )
+
+        )
+
+    [error_data] => Array
+        (
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+

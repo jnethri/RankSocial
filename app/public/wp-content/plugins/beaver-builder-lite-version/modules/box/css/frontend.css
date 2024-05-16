@@ -1,0 +1,14 @@
+.fl-module-box:before,
+.fl-module-box:after {
+	display: none !important;
+	content: '';
+}
+a.fl-module-box {
+	text-decoration: none;
+}
+
+/* Zero margins for child modules */
+.fl-module-box :where( .fl-module ),
+.fl-module-box :where( .fl-module-content ) {
+	margin: 0;
+}

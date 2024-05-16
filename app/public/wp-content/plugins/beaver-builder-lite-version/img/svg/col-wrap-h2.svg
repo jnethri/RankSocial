@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="259px" height="30px" viewBox="0 0 259 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <defs>
+        <polygon id="path-1" points="0 0 259 0 259 30 0 30"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Extra-Large" transform="translate(-2495.000000, -528.000000)">
+            <g id="Group-3" transform="translate(2495.000000, 528.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M198.122078,30.4825504 C135.140927,30.8690736 62.9820475,31.7528352 0,29.6509086 C3.01784406,24.285717 6.03568813,18.9102316 9.05220567,13.5254816 C6.03568813,9.3039446 3.01784406,5.07314312 0,0.832047718 C86.3342177,3.71434556 172.667109,-2.05025013 259,0.832047718 C256.427868,5.54872226 253.85441,10.2746613 251.283605,15.0057474 C253.855737,19.8809483 256.427868,24.7612962 259,29.6509086 C235.648189,28.8712883 221.473915,30.3392373 198.122078,30.4825504 Z" id="Fill-1" fill="#FBA613" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

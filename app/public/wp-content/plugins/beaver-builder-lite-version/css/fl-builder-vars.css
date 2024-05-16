@@ -1,0 +1,44 @@
+:root {
+	--fl-builder-accent-color: hsla(194, 100%, 41%, 1);
+	--fl-builder-accent-color-hover: hsla(194, 100%, 37%, 1);
+	--fl-builder-global-accent-color: #ff9600;
+	--fl-builder-muted-accent-color: #555D66;
+	--fl-builder-font-family: system-ui, -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Ubuntu, roboto, noto, arial, sans-serif;
+	--fl-builder-highlight-width: 2px;
+	--fl-builder-highlight-offset: calc( 0px - ( var(--fl-builder-highlight-width) / 2 ) ); /* Straddles the edge */
+	--fl-builder-highlight-color: var(--fl-builder-accent-color);
+	--fl-builder-highlight-color-hover: var(--fl-builder-accent-color-hover);
+
+	/* Sizes */
+	--fl-builder-radius: 6px;
+	--fl-builder-target-size: 36px;
+	--fl-builder-min-node-size: 24px;
+
+	--fl-builder-panel-width: 320px;
+	--fl-builder-panel-min-width: 320px;
+	--fl-builder-panel-max-width: 600px;
+	--fl-builder-panel-min-height: 500px;
+
+	/* Top Bar */
+	--fl-builder-top-bar-inset: 4px;
+	--fl-builder-top-bar-height: calc( var(--fl-builder-target-size) + ( var(--fl-builder-top-bar-inset) * 2 ) );
+
+	/* Panels & Forms */
+	--fl-builder-ui-hue: 210;
+	--fl-builder-input-bg-color: white;
+	--fl-builder-input-color: black;
+	--fl-builder-panel-bg-color: hsl( var(--fl-builder-ui-hue), 25%, 99% );
+	--fl-builder-heading-bg-color: var(--fl-builder-panel-bg-color);
+	--fl-builder-platter-bg-color: hsl( var(--fl-builder-ui-hue), 30%, 96% );
+
+	--fl-builder-outline-color: hsl( var(--fl-builder-ui-hue), 26%, 86% );
+	--fl-builder-input-shadow: 0 0 0 1px var(--fl-builder-outline-color);
+	--fl-builder-focus-shadow: inset 0 0 0 1.5px var(--fl-builder-accent-color);
+
+	/* Tab dividers */
+	--fl-builder-divider-color: hsl( var(--fl-builder-ui-hue), 26%, 80% );
+	--fl-builder-divider-width: 1px;
+
+	--fl-builder-selected-color: hsl(194deg 100% 34%) !important;
+	--fl-builder-dim-color: hsl(var(--fl-builder-ui-hue), 12%, 55%);
+}
